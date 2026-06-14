@@ -1,0 +1,16 @@
+2026-05-05 15:24:15,471 INFO : Quiz started
+2026-05-05 15:24:43,075 INFO : Correct answer
+2026-05-05 15:24:54,891 INFO : Correct answer
+2026-05-05 15:25:02,016 ERROR: Wrong answer
+2026-05-05 15:27:35,843 INFO : Quiz started
+2026-05-05 15:27:52,907 INFO : Question:0 Correct answer
+2026-05-05 15:28:10,481 INFO : Question:1 Correct answer
+2026-05-05 15:28:16,917 ERROR: Question:2 Wrong answer
+2026-05-05 16:07:20,420 INFO : Quiz started
+2026-05-05 16:07:36,344 INFO : Question:1 Correct answer
+2026-05-05 16:07:45,436 INFO : Question:2 Correct answer
+2026-05-05 16:17:40,526 INFO : Quiz started
+2026-05-05 16:17:55,097 INFO : Question:1 Correct answer
+2026-05-05 16:18:02,516 INFO : Question:2 Correct answer
+2026-05-05 16:18:12,228 INFO : Question:3 Correct answer
+2026-05-05 16:18:24,627 ERROR: Question:4 Wrong answer
